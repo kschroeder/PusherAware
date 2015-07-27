@@ -1,4 +1,18 @@
 {
+    "name": "eschrade/pusheraware",
+    "type": "library",
+    "description": "An \"Aware\" interface for DI, such as with Zend\Di",
+    "keywords": ["pusher", "websockets", "messaging"],
+    "homepage": "https://github.com/kschroeder/PusherAware",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Schroeder",
+            "email": "kschroeder@mirageworks.com",
+            "homepage": "http://www.eschrade.com/",
+            "role": "Developer"
+        }
+    ],
   "require" : {
     "pusher/pusher-php-server" : "v2.2.1"
   }
